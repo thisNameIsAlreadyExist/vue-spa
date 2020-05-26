@@ -1,0 +1,20 @@
+{
+  "status":200,
+  "message":"success",
+  "data":[
+      {
+        "id":1,
+        "username":"张哈哈",
+        "phone":"173****4881",
+        "checked":false,
+        "address":"高新区天府二街峰会国际2栋1单元"
+      },
+      {
+        "id":2,
+        "username":"张哈哈",
+        "phone":"173****4881",
+        "checked":false,
+        "address":"高新区天府二街峰会国际2栋1单元"
+      }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "status":200,
+  "message":"success",
+  "data":{
+    "nickname":"张哈哈",
+    "sex":"男",
+    "birthday":"2017-10-25",
+    "baby":2,
+    "head-avatar":"/images/head-avatar.png"
+  }
+}
